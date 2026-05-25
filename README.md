@@ -6,7 +6,7 @@ Search, recommender systems, and ads-ranking engineer focused on pCVR/CTR modeli
 
 ### TAAC x KDD Cup 2026 Tencent Ads pCVR Prediction
 
-- Top 6% public leaderboard finish; exact score and final recipe withheld from the public repository.
+- Top 4.6% public leaderboard finish; exact score and final recipe withheld from the public repository.
 - Built a cleaned public solution for industrial ads conversion prediction.
 - Covered temporal validation, sparse/dense feature tokenization, sequence modeling, multi-task objectives, and controlled experiment tracking.
 
